@@ -8,6 +8,6 @@ On sorted arrays, Insertion Sort performs much faster (close to O(n)), because f
 The results match expected Big-O behavior.
 Binary Search is very efficient (O(log n)), but only works correctly on a sorted array, since it relies on order to reduce the search space.
 
-**Reflection **
+**Reflection**
 
 This assignment helped me understand how theoretical complexity affects real performance. I saw that simple algorithms can be inefficient on large data, while more advanced algorithms perform better. I also learned the importance of sorting before using Binary Search.
