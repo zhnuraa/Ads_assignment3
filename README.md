@@ -24,3 +24,7 @@ Complexity: Average O(n log n), Worst O(n²).
 Binary Search: finds an element by repeatedly checking the middle of a sorted array.
 Complexity: O(log n). Requires sorted data.
 
+
+**Purpose of the Experiment**
+
+The purpose of this experiment is to compare how different algorithms perform on arrays of different sizes and types. I measured execution time to see how efficient each algorithm is in practice and to check if the results match their theoretical time complexity.
