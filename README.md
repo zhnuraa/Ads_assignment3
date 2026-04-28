@@ -11,3 +11,16 @@ Binary Search is very efficient (O(log n)), but only works correctly on a sorted
 **Reflection**
 
 This assignment helped me understand how theoretical complexity affects real performance. I saw that simple algorithms can be inefficient on large data, while more advanced algorithms perform better. I also learned the importance of sorting before using Binary Search.
+
+
+**Algorithm Explanations**
+
+Insertion Sort: builds a sorted part of the array by inserting each element into its correct position.
+Complexity: Best O(n), Average/Worst O(n²).
+
+Quick Sort: uses a pivot to divide the array into smaller and larger parts, then sorts recursively.
+Complexity: Average O(n log n), Worst O(n²).
+
+Binary Search: finds an element by repeatedly checking the middle of a sorted array.
+Complexity: O(log n). Requires sorted data.
+
